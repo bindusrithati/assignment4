@@ -1,0 +1,2 @@
+this is same text file
+it contains multiple lines
